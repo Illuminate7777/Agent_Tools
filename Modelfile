@@ -1,0 +1,12 @@
+FROM llama3:instruct
+
+# Set parementers
+
+PARAMETER stop <|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+# Sets a custom system message to specify the behavior of 
+# the chat assistant
+
+# Leaving it blank for now.
+
+SYSTEM """"""

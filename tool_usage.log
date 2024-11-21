@@ -1,0 +1,54 @@
+2024-03-17 19:04:20,922 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-17 19:04:25,760 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-17 19:34:44,548 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-17 19:34:55,871 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-17 19:35:01,197 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-17 19:35:09,781 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-17 19:35:10,235 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-17 19:35:18,138 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-17 19:39:06,852 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-17 19:39:08,568 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-17 19:40:29,941 - INFO - SearchUrlTool called with argument: Best travel websites
+2024-03-17 19:40:32,160 - INFO - SearchUrlTool output: [
+  "https://www.worldtrips.com/best-travel-websites\"",
+  "https://www.kiplinger.com/slideshow/spending/t059-s001-24-best-travel-websites-to-save-you-money/index.html\"",
+  "https://www.reddit.com/r/travel/comments/yt880d/which_is_the_best_travel_search_engine_and_why/\"",
+  "https://www.quora.com/What-are-the-best-travel-websites-to-use-for-booking-flights-and-hotels\"",
+  "https://www.semrush.com/website/top/united-states/travel-and-tourism/\"",
+  "https://www.kayak.com/\"",
+  "https://www.similarweb.com/top-websites/travel-and-tourism/\"",
+  "https://www.frommers.com/slideshows/848046-the-10-best-and-worst-airfare-search-sites-for-2024\"",
+  "https://www.forbes.com/sites/robertadams/2016/03/29/the-worlds-best-travel-websites/\"",
+  "https://www.top10.com/travel-sites\""
+]
+
+2024-03-17 19:40:40,762 - INFO - SearchUrlTool called with argument: Best travel websites
+2024-03-17 19:40:42,445 - INFO - SearchUrlTool output: [
+  "https://www.worldtrips.com/best-travel-websites\"",
+  "https://www.kiplinger.com/slideshow/spending/t059-s001-24-best-travel-websites-to-save-you-money/index.html\"",
+  "https://www.reddit.com/r/travel/comments/yt880d/which_is_the_best_travel_search_engine_and_why/\"",
+  "https://www.quora.com/What-are-the-best-travel-websites-to-use-for-booking-flights-and-hotels\"",
+  "https://www.semrush.com/website/top/united-states/travel-and-tourism/\"",
+  "https://www.kayak.com/\"",
+  "https://www.similarweb.com/top-websites/travel-and-tourism/\"",
+  "https://www.frommers.com/slideshows/848046-the-10-best-and-worst-airfare-search-sites-for-2024\"",
+  "https://www.forbes.com/sites/robertadams/2016/03/29/the-worlds-best-travel-websites/\"",
+  "https://www.top10.com/travel-sites\""
+]
+
+2024-03-17 19:40:56,220 - INFO - SearchUrlTool called with argument: Best travel websites
+2024-03-17 19:40:57,960 - INFO - SearchUrlTool output: [
+  "https://www.worldtrips.com/best-travel-websites\"",
+  "https://www.kiplinger.com/slideshow/spending/t059-s001-24-best-travel-websites-to-save-you-money/index.html\"",
+  "https://www.semrush.com/website/top/united-states/travel-and-tourism/\"",
+  "https://www.similarweb.com/top-websites/travel-and-tourism/\"",
+  "https://www.kayak.com/\"",
+  "https://www.top10.com/travel-sites\"",
+  "https://www.frommers.com/slideshows/848046-the-10-best-and-worst-airfare-search-sites-for-2024\"",
+  "https://travelfreak.com/travel-booking-websites/\"",
+  "https://www.independent.co.uk/travel/news-and-advice/the-50-best-travel-websites-8646338.html\"",
+  "https://www.forbes.com/sites/robertadams/2016/03/29/the-worlds-best-travel-websites/\""
+]
+
+2024-03-17 19:43:39,178 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2024-03-17 19:43:45,672 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
